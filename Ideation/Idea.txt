@@ -1,10 +1,5 @@
-                        Online Music Streaming
+for using font awesome first install that into the folder
+npm install font-awesome@4.7.0 --save
 
-1- Introduction
-2- Expected List of Features
-3- Market Survey
-4- References
-
-
-
-Introduction: This website is for the fork who are very fond of music.
+for using the social icons such as: facebook icon, twitter icon then
+npm install bootstrap-social@5.1.1 --save
