@@ -1,5 +1,0 @@
-for using font awesome first install that into the folder
-npm install font-awesome@4.7.0 --save
-
-for using the social icons such as: facebook icon, twitter icon then
-npm install bootstrap-social@5.1.1 --save
